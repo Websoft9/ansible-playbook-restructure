@@ -1,4 +1,0 @@
-[submodule "roles/role-test"]
-	path = roles/role-test
-	url = https://github.com/Websoft9/role-test.git
-	branch = master
